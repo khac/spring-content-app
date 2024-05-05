@@ -1,0 +1,6 @@
+com/examplemay5/contentcalendar/ContentCalendarApplication.class
+com/examplemay5/contentcalendar/model/Status.class
+com/examplemay5/contentcalendar/model/Content.class
+com/examplemay5/contentcalendar/repository/ContentCollectionRepository.class
+com/examplemay5/contentcalendar/controller/ContentController.class
+com/examplemay5/contentcalendar/model/Type.class
